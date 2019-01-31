@@ -9,7 +9,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 
 ## **Bibliothéque utilisée**
-+ [ecran lcd LiquidCrystal](https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay)
++ ecran lcd: [LiquidCrystal](https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay)
 + [capteur de témpérature DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library)
 + [horloge Rtc by Makuna](https://github.com/Makuna/Rtc)
 
