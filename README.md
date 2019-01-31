@@ -5,7 +5,7 @@ Afficheur heure, date, température, humidité
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildcat](https://github.com/wildcat7534)
 
 ## Video :
-[![video](https://img.youtube.com/vi/WuTwOEJFxqc/0.jpg)](https://www.youtube.com/watch?v=WuTwOEJFxqc)
+[![video](https://img.youtube.com/vi/Gx60-Ce6xBY/0.jpg)](https://www.youtube.com/watch?v=Gx60-Ce6xBY)
 
 
 ## **Bibliothéque utilisée**
