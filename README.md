@@ -1,6 +1,6 @@
 # stationmeteo
 
-Afficheur heure, date, temperature, humidité 
+Afficheur heure, date, température, humidité 
 
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildcat](https://github.com/wildcat7534)
 
@@ -21,7 +21,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@wildc
 
 ## **Montage**
 
-![schema : ](.jpg)
+![schema : ](afficheur_horloge_temp_hum.jpg)
 
 ## **Code**
 
@@ -75,4 +75,4 @@ void loop() {
 }
 ```
 
-![photo: ](.jpg)
+![photo: ](stationmeteo.jpg)
